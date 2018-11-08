@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Posts by Year"
+    url: /year-archive/
+  - title: "Posts by Category"
+    url: /categories/
+  - title: "Posts by Tag"
+    url: /tags/
+  - title: "Digoal's Blog"
+    url: ../digoal.blog/
+  - title: "About"
+    url: /about/
+
