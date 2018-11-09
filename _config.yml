@@ -188,6 +188,16 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - "197001"
+  - backup
+  - class
+  - me
+  - old_blogs_from_163
+  - package
+  - pdf
+  - pic
+  - sec
+  - temp
 keep_files:
   - .git
   - .svn
